@@ -177,10 +177,4 @@
 			<scope>compile</scope>
 		</dependency>
 	</dependencies>
-	<modules>
-		<module>../jbp-exception</module>
-		<module>../jbp-launcher</module>
-		<module>../jbp-cache</module>
-		<module>../jbp-leader</module>
-	</modules>
 </project>
